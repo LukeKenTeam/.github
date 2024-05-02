@@ -8,4 +8,5 @@ The current project is Luke Ken 3D Planet Invasion, which has taken some time to
 
 ## Community 
 If you're a fan of the project or want to help, join the LK community discord, which is being developed. 
+
 ![Discord Banner 2](https://discordapp.com/api/guilds/979538976459333662/widget.png?style=banner2)
