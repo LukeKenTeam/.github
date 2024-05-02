@@ -1,4 +1,4 @@
-# Welcome to Luke Ken Team github page
+# Welcome to Luke Ken Team GitHub Page
 
 ## About
 Luke Ken is a video game character designed and made by ZNukem started out as a passion project in late 2020 for creating assets as a Freedoom equivalent for DN3D engine. However, it has evolved beyond that to become its own character and design lore. Inspiring limitless creativity for other future projects. You can say Luke Ken be described as someone who goes above and beyond other places, such as game engines for example. That's all he is, a cool funny space enforcer who enjoys saving the day and the universe.
